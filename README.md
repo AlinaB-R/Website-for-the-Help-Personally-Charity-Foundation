@@ -46,3 +46,4 @@
 
 #Документация
 1. https://github.com/AlinaB-R/Website-for-the-Help-Personally-Charity-Foundation/blob/main/BPMN.drawio
+2. https://github.com/AlinaB-R/Website-for-the-Help-Personally-Charity-Foundation/blob/main/use%20case%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.drawio
