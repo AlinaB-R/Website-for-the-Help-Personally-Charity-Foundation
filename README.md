@@ -45,4 +45,4 @@
 - BPMN
 
 #Документация
-1. 
+1. https://github.com/AlinaB-R/Website-for-the-Help-Personally-Charity-Foundation/blob/main/BPMN.drawio
